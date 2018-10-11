@@ -9,6 +9,5 @@ e of Challenge 0
 serving the project on labsecu.github.io/welcome
 
 ## TODO list : 
-- Remove Old files.
-- Make the code uglier 
+- Remove credentials in source code
 - Improve encoding 
